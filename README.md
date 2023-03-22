@@ -13,14 +13,13 @@ Run through the guide at [RNN guide](https://www.tensorflow.org/guide/keras/rnn)
 
 1.   Give 1-2 sentence description of keras.
 
-TODO
+Keras is a deep learning API that is used to implement recurrent neural networks. After it is imported, you can build recurrent models with easy customization.
 
 2.   Give a short explanation of the following:
 
-- `Embedding`
--  `Dropout` 
+- `Embedding` - Embedding allows you to be able to visualize your concepts, and it also helps you map your variables.
+-  `Dropout` - This is a method that approximates the training of the neural networks.
 
-TODO
 
 ### Part 2: Unidirectional vs Bidirectional
 
@@ -31,4 +30,3 @@ TODO
 
 1.   Include the code from "Recurrent Neural Networks (RNN) with Keras" guide that you ran (must show output) as a Google Colab notebook in your challenge 5 repository.
 
-TODO
