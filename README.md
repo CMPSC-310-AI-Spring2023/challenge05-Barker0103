@@ -25,6 +25,8 @@ Keras is a deep learning API that is used to implement recurrent neural networks
 
 1.   Give 2-3 sentence explanation of how bidirectional RNNs are different from unidirectional RNNs.
 
+Unidirectional and Bidirectional are different types of Neural Networks that run through things differently. Unidirectional processes the model from beginnings to end, but the bidirectional method processes the model from beginning to end and end to beginning.
+
 
 ### Part 3: Add code
 
